@@ -4,7 +4,9 @@ A modern, full-featured web application for **Mesob House**, an Ethiopian restau
 
 
 ## Live Demo
-[mesob-house.vercel.app](https://mesob-house.vercel.app/)
+<a href="https://mesob-house.vercel.app/" traget="_blank" rel="noopener noreferrer">
+  mesob-house.vercel.app
+</a>
 
 
 ## Features
