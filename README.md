@@ -3,7 +3,9 @@
 A modern, full-featured web application for **Mesob House**, an Ethiopian restaurant. Customers can browse traditional dishes, manage a shopping cart, and place orders after authentication.
 
 
----
+## Live Demo
+[mesob-house.vercel.app](https://mesob-house.vercel.app/)
+
 
 ## Features
 
@@ -39,8 +41,6 @@ A modern, full-featured web application for **Mesob House**, an Ethiopian restau
   - Clean Ethiopian-inspired design system
 
 
----
-
 ## Screenshots
 
 ### Home Page
@@ -56,8 +56,6 @@ A modern, full-featured web application for **Mesob House**, an Ethiopian restau
 ![Login Page](./screenshots/login.webp)
 
 
----
-
 ## Tech Stack
 
 | Category       | Technology                                |
@@ -70,8 +68,6 @@ A modern, full-featured web application for **Mesob House**, an Ethiopian restau
 | Icons          | React Icons                               |
 | Deployment     | Vercel                                    |
 
-
----
 
 ## Project Structure
 
@@ -101,7 +97,6 @@ mesob-house/
 └── README.md
 ```
 
----
 
 ## Getting Started
 
